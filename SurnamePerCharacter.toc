@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Surname Per Character
+## Notes: Remembers the "show surname over head" setting separately for each character.
+## Author: imperial64
+## Version: @project-version@
+## SavedVariablesPerCharacter: SurnamePerCharacterDB
+
+SurnamePerCharacter.lua
