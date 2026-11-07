@@ -8,6 +8,7 @@ This addon remembers the setting separately for each character and puts it back 
 
 - New characters start with the surname shown.
 - Change it in the game's settings as usual. The addon saves the change for the character you're on.
+- Or use the checkbox in Options > AddOns > Surname Per Character.
 - Or type `/surname` to turn it on or off for the current character.
 
 The game setting only covers your own character's name, so this doesn't add surnames above other players.

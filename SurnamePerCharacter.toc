@@ -4,5 +4,6 @@
 ## Author: imperial64
 ## Version: @project-version@
 ## SavedVariablesPerCharacter: SurnamePerCharacterDB
+## X-Curse-Project-ID: 1789527
 
 SurnamePerCharacter.lua
